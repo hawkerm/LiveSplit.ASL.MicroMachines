@@ -2,10 +2,11 @@
 
 An ASL based [Auto Splitter](https://github.com/LiveSplit/LiveSplit/blob/master/Documentation/Auto-Splitters.md) for [LiveSplit](http://livesplit.github.io/).
 
-Micro Machines® is a registered trademark of Galoob (now Hasbro) in the U.S. and other countries.
-The Micro Machines® video game was originally published by Codemasters.
-None of these organizations are affiliated with this project, nor do they sponsor or endorse it.
-Image data contained within the XML Split Sample Files is excluded from the MIT license, it is the property of the above organizations and used for informational/reference purposes only.
+Micro Machines® is a registered trademark of Galoob (now Hasbro) in the U.S. and other countries.  
+The Micro Machines® video game was originally published by Codemasters.  
+*None of these organizations are affiliated with this project, nor do they sponsor or endorse it.*
+
+Image data contained within the XML Split Sample Files is excluded from the MIT license; it is the property of the above organizations and used for informational/reference purposes only.
 
 ## Use [DOSBox](http://www.dosbox.com/) 0.74 Setting Requirements
  - Dynamic Core 
