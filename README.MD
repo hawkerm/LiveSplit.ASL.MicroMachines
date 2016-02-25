@@ -12,7 +12,7 @@ Image data contained within the XML Split Sample Files is excluded from the MIT 
  - Dynamic Core 
  - 40,000 Cycles
  - 63MB RAM
- - Deactivate PC Speaker in DOXBox (messes with game sound)
+ - Deactivate PC Speaker in DOSBox (messes with game sound)
  - Sound Blaster Enabled In-Game
 
 ## Micro Machines [DOS] - Any%
